@@ -1,0 +1,4 @@
+importance: "stinky socks", "bunny rabies"
+similar: "smelly feet", "stinky socks"
+immediacy: "bunny rabies", "smelly feet"
+importance: "smelly feet", "stinky socks"
